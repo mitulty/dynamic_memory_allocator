@@ -6,7 +6,9 @@
 # May not be used, modified, or copied without permission.
 #
 ######################################################################
-
+This project implements a memory allocator using various dynamic memory allocation techniques. 
+There are two C implementations namely, mm1.c and mm2.c. Each of these files contains four main functions:
+mm init(), mm malloc(),mm realloc() and mm free().
 ***********
 Main Files:
 ***********
